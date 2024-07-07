@@ -3,4 +3,4 @@
 #চুদবি আজকে রাতে ফকিন্নির পোলা
 import os
 import XL
-XL.loging()
+XL.loging.()
